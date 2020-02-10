@@ -20,3 +20,15 @@ Gitflow
 
 indicator file hasn't been saved  
   - circle on your file tab
+
+New Vocabulary
+
+- VCS
+- git
+- GitHub
+- repository
+- local vs remote
+- clone
+- commit
+- ACP
+- deployment

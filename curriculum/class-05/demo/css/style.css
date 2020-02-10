@@ -1,0 +1,107 @@
+/* html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+header {
+  background-color: hsl(230, 42%, 45%);
+}
+
+body {
+  background-color: #FFA500;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+}
+
+#nav-one {
+  float: right;
+  margin-top: 10px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 50%;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: blue;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+article {
+  float: left;
+  width: 33%;
+}
+
+section {
+  float: left;
+  width: 50%;
+}
+
+ul {
+  padding-left: 40px;
+}
+
+#logo {
+  margin: 10px 10px 10px 10px;
+  border-radius: 10px;
+}
+
+main {
+  height: 400px;
+  background-color: rgba(121, 204, 39, 0.5);
+}
+
+footer {
+  height: 150px;
+  margin-top: 20px;
+  background-color: rgb(201, 57, 57);
+}
+img {
+  border: 2px solid red;
+}
+
+.li-vertical li {
+  display: block;
+  text-align: center;
+}
+
+#copyright {
+  width: 100%;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+span {
+  float: left;
+  width: 0.7em;
+  font-size: 400%;
+  font-family: algerian, courier;
+  line-height: 80%;
+}
+
+a:hover {
+  color: orange;
+}
+
+
+
+

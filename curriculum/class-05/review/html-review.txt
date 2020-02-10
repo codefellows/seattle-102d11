@@ -1,0 +1,48 @@
+HTML Review
+
+hyper-text mark-up language
+tags
+
+opening tags
+closing tags
+<header>content or text</header>  = Element
+
+structures the page
+
+<nav></nav>
+<p> </p>
+<body></body>
+<section></section>
+
+nesting child elements
+  article*3>img>h3>p
+
+  <articles>
+      <img src="https://via.placeholder.com/50" alt="Placeholder Image">
+        <h3>Product Name</h3>
+          <p>Description of Product lsknglksbnlksbnlksbglklksgnlnslgnglknglkn</p>
+  </articles>
+
+
+adding sibling elements
+  article*3>img+h3+p
+
+  <articles>
+      <img src="https://via.placeholder.com/50" alt="Placeholder Image">
+      <h3>Product Name</h3>
+      <p>Description of Product lsknglksbnlksbnlksbglklksgnlnslgnglknglkn</p>
+  </articles>
+
+
+Checking the path to the files 
+
+sometimes an external reference to images get lost or deleted from server
+
+semantic tags in html5  vs. html3
+  -having meaning or purpose
+
+inline tags
+<strong></strong>  bold
+<em></em>  italicize
+
+

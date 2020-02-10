@@ -1,0 +1,37 @@
+Functions
+
+who, what why?
+
+Reusability
+
+  - creates stability in code if tested properly
+
+  expect a function to do something or complete a task
+  one thing, does it very well
+
+Control
+Security 
+Makes code easier to debugg
+Easier to share
+
+
+function name(parameters){
+  codeblock
+  does something
+
+  return statement;
+};
+
+encapsulation 
+
+var a = 1;
+var b = 2;// not in a function it is on a global scope
+
+function addNum (a, b){   // parameters
+  
+  return a + b;  // function scope
+};
+
+addNum(2, 5); //  pass arguments
+
+

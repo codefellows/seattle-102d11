@@ -1,0 +1,34 @@
+Reading - Structure pages with HTML
+Web development process
+
+-who
+  - demographics
+    - identify target audience
+    -age, gender, geographic location, how the web is accessed, what clients they use
+  -what is the message
+
+-what
+  - wireframe
+  - product information
+    - content outsource copywriters
+  - sitemap
+  - visual hierarchy 
+  - navigation
+  - pictures
+  - external links to partnerships
+  - branding and logos
+  - color pallettes
+  - particular design aspects
+  
+-why
+  - to communicate a message
+  - meeting goals
+  - satisfy the customers
+  - planning is important!
+    - manage scope
+      - time constraints
+      - budget
+  - resource management 
+  - expectation management 
+
+  

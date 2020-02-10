@@ -1,0 +1,62 @@
+What do you know about CSS?
+
+cascading style sheets
+  - read from top to bottom
+
+Specificity 
+
+h1 is our selector
+
+h1 {
+  color: blue; //declaration    property: value;
+  background-color: pink; // declaration    property:value;
+}
+
+entire thing is called a ruleset
+
+
+
+box model
+
+content
+padding - clears area around the content. Is transparent
+border - Around the content and padding
+margin - around the border. Is transparent.
+
+what can we use for colors
+rgb(red, green, blue)      rgb(50, 250, 10)
+blue
+hex #FF5462
+hsl(hue, saturation, lightness)
+
+
+comments
+/* slhslhbflsbhfg */
+
+class
+  - target multiple elements
+  .name {
+
+  }// class
+  
+
+  - target one element with a unique name
+  #name {
+
+  } // id
+  
+
+html 
+  - <p class="name" >content</p> // class
+  -    id="name
+
+* universal selector
+
+h1, h2, h3 {}
+
+.name li {}  
+
+header img {}
+
+don't rely on preview
+use local server
